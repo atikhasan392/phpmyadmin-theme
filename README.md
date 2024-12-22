@@ -1,6 +1,6 @@
-# Dark phpMyAdmin Theme
+# DarkOrange phpMyAdmin Theme
 
-Welcome to the Dark phpMyAdmin Theme! This theme is designed to enhance the visual aesthetics of phpMyAdmin, offering a more user-friendly and visually appealing interface.
+Welcome to the DarkOrange phpMyAdmin Theme! This theme is designed to enhance the visual aesthetics of phpMyAdmin, offering a more user-friendly and visually appealing interface.
 
 ![Theme Screenshot](screen.png)
 
@@ -23,15 +23,15 @@ Welcome to the Dark phpMyAdmin Theme! This theme is designed to enhance the visu
    git clone https://github.com/atikhasan392/phpmyadmin-theme.git
    ```
 
-2. Alternatively, download the ZIP file from the [Releases](https://github.com/atikhasan392/phpmyadmin-theme/releases) section.
+2. Alternatively, download the ZIP file from the [Releases](https://github.com/atikhasan392/phpmyadmin-theme) section.
 
 ### Step 2: Locate phpMyAdmin Themes Directory
 
-1. Navigate to the phpMyAdmin installation directory on your server.
+1. Navigate to the phpMyAdmin installation directory on your PC.
 2. Open the `themes` folder. The typical path is:
 
-   ```
-   /path/to/phpmyadmin/themes/
+   ```bash
+   C:/xampp/phpmyadmin/themes/
    ```
 
 ### Step 3: Upload the Theme
@@ -41,7 +41,7 @@ Welcome to the Dark phpMyAdmin Theme! This theme is designed to enhance the visu
    Example:
 
    ```bash
-   cp -r phpmyadmin-theme /path/to/phpmyadmin/themes/
+   cp -r phpmyadmin-theme C:/xampp/phpmyadmin/themes/
    ```
 
 ### Step 4: Activate the Theme
