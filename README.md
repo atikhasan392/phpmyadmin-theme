@@ -72,6 +72,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-For any questions or support, contact [ATik HaSan](mailto:atikhasan2700@gmail.com).
+For any questions or support, contact [ATik HaSan](https://atikhasan.com/).
 
 Thank you for using the Customized phpMyAdmin Theme!
