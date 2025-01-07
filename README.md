@@ -31,7 +31,7 @@ Welcome to the DarkOrange phpMyAdmin Theme! This theme is designed to enhance th
 2. Open the `themes` folder. The typical path is:
 
    ```bash
-   C:/xampp/phpmyadmin/themes/
+   cd C:/xampp/phpmyadmin/themes/
    ```
 
 ### Step 3: Upload the Theme
